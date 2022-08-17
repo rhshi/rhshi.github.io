@@ -23,8 +23,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 
-**Generalization Bounds for Sparse Random Feature Expansions**
-*Abolfazl Hashemi, Hayden Schaeffer, BS, Ufuk Topcu, Giang Tran, Rachel Ward*
+**Generalization Bounds for Sparse Random Feature Expansions**  
+*Abolfazl Hashemi, Hayden Schaeffer, BS, Ufuk Topcu, Giang Tran, Rachel Ward*  
 [\[PDF\]](https://arxiv.org/pdf/2103.03191.pdf)
 
 <!-- {% include base_path %}
