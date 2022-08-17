@@ -5,15 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Foundations of Machine Learning and Data Science
-UT Austin
-*Spring 2022*
+Foundations of Machine Learning and Data Science  
+UT Austin  
+*Spring 2022*  
 
-Abstract Linear Algebra
-University of Chicago
-*Spring 2020*
+Abstract Linear Algebra  
+University of Chicago  
+*Spring 2020*  
 
-Linear Algebra
-University of Chicago
-*Spring 2019*
+Linear Algebra  
+University of Chicago  
+*Spring 2019*  
 
