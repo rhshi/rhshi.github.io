@@ -19,13 +19,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning**  
 *Yuege Xie, BS, Hayden Schaeffer, Rachel Ward*  
-[\[PDF\]](https://msml22.github.io/msml22papers/shrimp_preprint.pdf)
+[\[Link\]](https://msml22.github.io/msml22papers/shrimp_preprint.pdf)  
+In *Mathematical and Scientific Machine Learning 2022*
 
-## Preprints
+## Journal Papers
 
 **Generalization Bounds for Sparse Random Feature Expansions**  
 *Abolfazl Hashemi, Hayden Schaeffer, BS, Ufuk Topcu, Giang Tran, Rachel Ward*  
-[\[PDF\]](https://arxiv.org/pdf/2103.03191.pdf)
+[\[Link\]](https://www.sciencedirect.com/science/article/pii/S1063520322000653)
+In *Applied and Computational Harmonic Analysis*
 
 <!-- {% include base_path %}
 
