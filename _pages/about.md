@@ -12,4 +12,4 @@ I am a third-year PhD student at the University of Texas at Austin fortunate to 
 
 My interests lie broadly in the foundations of data science, using methods from statistics, high-dimensional probability, and optimization, and algebraic geometry.  In the past I have worked on sparse approximation, random features, and algorithmic fairness.  For more information about my research see [here](https://rhshi.github.io/research/).
 
-I can be contacteded at bhshi at -no spam- utexas dot edu.
+I can be contacted at bhshi at -no spam- utexas dot edu.
