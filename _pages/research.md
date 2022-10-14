@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My main research interest is in the foundations of data science, particularly the algorthmic primitives that drive modern data science and machine learning tasks.  This involves a consideration of statistics, high-dimensional probability, algorithms, optimization, and some algebraic geometry.
+My main research interest is in the mathematics of data science, particularly the algorthmic primitives that drive modern data science and machine learning tasks.  This involves a consideration of statistics, high-dimensional probability, algorithms, optimization, and some algebraic geometry.
 
 One of my main focuses right now is a study of various tensor problems.  These include potential statistical-computational gaps in symmetric tensor decomposition, qualitatively studying [Comon's conjecture](https://arxiv.org/abs/1810.09338), and landscape analysis of ODECO tensor decomposition.  These use ideas from property testing, algebraic geometry, statistics, and complexity theory.
 
