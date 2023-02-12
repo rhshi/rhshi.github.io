@@ -19,9 +19,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conference Papers
 
-**SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning**  
+[**SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning**](https://msml22.github.io/msml22papers/shrimp_preprint.pdf)    
 *Yuege Xie, BS, Hayden Schaeffer, Rachel Ward*  
-[\[Link\]](https://msml22.github.io/msml22papers/shrimp_preprint.pdf)  
+<!-- [\[Link\]](https://msml22.github.io/msml22papers/shrimp_preprint.pdf)   -->
 In *Mathematical and Scientific Machine Learning 2022*
 
 ## Journal Papers
