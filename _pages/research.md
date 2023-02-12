@@ -26,9 +26,9 @@ In *Mathematical and Scientific Machine Learning 2022*
 
 ## Journal Papers
 
-**Generalization Bounds for Sparse Random Feature Expansions**  
+[**Generalization Bounds for Sparse Random Feature Expansions**](https://www.sciencedirect.com/science/article/pii/S1063520322000653)  
 *Abolfazl Hashemi, Hayden Schaeffer, BS, Ufuk Topcu, Giang Tran, Rachel Ward*  
-[\[Link\]](https://www.sciencedirect.com/science/article/pii/S1063520322000653)  
+<!-- [\[Link\]](https://www.sciencedirect.com/science/article/pii/S1063520322000653)   -->
 In *Applied and Computational Harmonic Analysis*
 
 <!-- {% include base_path %}
