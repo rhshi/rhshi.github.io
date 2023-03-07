@@ -17,14 +17,14 @@ My main research interest is in the mathematics of data science, particularly th
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=TD6bQDEAAAAJ&hl=en).
 
-## In Submission
+## Preprints
 [**Concentration Inequalities for Sums of Markov Dependent Random Matrices**](https://arxiv.org/abs/2303.02150)  
 *Joe Neeman, BS, Rachel Ward*  
 
 
 ## Conference Papers
 
-[**SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning**](https://msml22.github.io/msml22papers/shrimp_preprint.pdf)    
+[**SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning**](https://proceedings.mlr.press/v190/xie22a.html)    
 *Yuege Xie, BS, Hayden Schaeffer, Rachel Ward*  
 <!-- [\[Link\]](https://msml22.github.io/msml22papers/shrimp_preprint.pdf)   -->
 In *Mathematical and Scientific Machine Learning 2022*
