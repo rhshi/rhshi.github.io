@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Personal"
+permalink: /personal/
+author_profile: true
+---
+
 Among other things, I enjoy playing soccer and drinking tea.
 
 **Things I enjoy reading/having read:**
