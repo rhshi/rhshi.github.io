@@ -17,4 +17,5 @@ Among other things, I enjoy playing soccer and drinking tea.
 [Playing](https://joylandmagazine.com/nonfiction/playing/) by Carolyn Ten Eyck\
 [How One Uvalde Family Learned to Grieve in Public](https://www.nytimes.com/2023/05/23/magazine/uvalde-parents.html?unlocked_article_code=6DHLKj-h0ObKYfuTcfhZrbK9CtUGCl1c0W6qv-qsj9aEYFdOQ00PhZQOwgYcw5_Iosd3BfYT9c5I9NrEE8XHnmxmBHZoNYUbJVV8JTIKQjWl11zVtJAHyJa-oZBbJoObmB287TLmWutmyVcXQXPWsSCJ14aJT9zW8WYEJxntUT8ExYGECrndDo-5CXzhQEFHe6aBHeMqaz8MtKkqr3HkpoY0jHYknuhE-5ihIvoUAHbOMSkDdxVEp5tlexjsvpSmTFs8vWOSuE0uNamIRdaQSDR3mHCtikGoAIiQGorYH2s6vZU8JGxE49195-MTJ75JthIFAN5wPvM8&smid=nytcore-ios-share&referringSource=articleShare) by Jaeah Lee\
 [Searching for Coherence in Asian America](https://www.newyorker.com/books/under-review/searching-for-coherence-in-asian-america) by Marella Gayla\
-*The Christian Imagination* by Willie James Jennings
+*The Christian Imagination* by Willie James Jennings\
+["We Cannot Cross Until We Carry Each Other"](https://jewishcurrents.org/we-cannot-cross-until-we-carry-each-other) by Arielle Angel
