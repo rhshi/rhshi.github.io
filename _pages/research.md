@@ -24,7 +24,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Journal Papers
 
 [**Concentration Inequalities for Sums of Markov Dependent Random Matrices**](https://academic.oup.com/imaiai/article-abstract/13/4/iaae032/7917088?redirectedFrom=fulltext)  
-*Joe Neeman, BS, Rachel Ward*
+*Joe Neeman, BS, Rachel Ward*  
 In *Information and Inference*
 
 [**Generalization Bounds for Sparse Random Feature Expansions**](https://www.sciencedirect.com/science/article/pii/S1063520322000653)  
