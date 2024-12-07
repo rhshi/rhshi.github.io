@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My main research interest is in the mathematics of data science, particularly the algorithmic primitives that drive modern data science and machine learning tasks.  This involves statistics, high-dimensional probability, algorithms, optimization and sampling, and some algebraic geometry.  
+My main research interest is in the mathematical foundations of data science, particularly the algorithmic primitives that drive modern data science and machine learning tasks.  This involves statistics, high-dimensional probability, algorithms, optimization and sampling, and some algebra.  
 
 <!-- One of my main focuses right now is a study of various tensor problems.  These include potential statistical-computational gaps in symmetric tensor decomposition, qualitatively studying [Comon's conjecture](https://arxiv.org/abs/1810.09338), and landscape analysis of ODECO tensor decomposition.  These use ideas from property testing, algebraic geometry, statistics, and complexity theory. -->
 
@@ -17,24 +17,26 @@ My main research interest is in the mathematics of data science, particularly th
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=TD6bQDEAAAAJ&hl=en).
 
-## Preprints
+<!-- ## Preprints
 [**Concentration Inequalities for Sums of Markov Dependent Random Matrices**](https://arxiv.org/abs/2303.02150)  
-*Joe Neeman, BS, Rachel Ward*  
+*Joe Neeman, BS, Rachel Ward*   -->
 
+## Journal Papers
+
+[**Concentration Inequalities for Sums of Markov Dependent Random Matrices**](https://academic.oup.com/imaiai/article-abstract/13/4/iaae032/7917088?redirectedFrom=fulltext)  
+*Joe Neeman, BS, Rachel Ward*
+In *Information and Inference*
+
+[**Generalization Bounds for Sparse Random Feature Expansions**](https://www.sciencedirect.com/science/article/pii/S1063520322000653)  
+*Abolfazl Hashemi, Hayden Schaeffer, BS, Ufuk Topcu, Giang Tran, Rachel Ward*  
+In *Applied and Computational Harmonic Analysis*
 
 ## Conference Papers
 
 [**SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning**](https://proceedings.mlr.press/v190/xie22a.html)    
 *Yuege Xie, BS, Hayden Schaeffer, Rachel Ward*  
-<!-- [\[Link\]](https://msml22.github.io/msml22papers/shrimp_preprint.pdf)   -->
 In *Mathematical and Scientific Machine Learning 2022*
 
-## Journal Papers
-
-[**Generalization Bounds for Sparse Random Feature Expansions**](https://www.sciencedirect.com/science/article/pii/S1063520322000653)  
-*Abolfazl Hashemi, Hayden Schaeffer, BS, Ufuk Topcu, Giang Tran, Rachel Ward*  
-<!-- [\[Link\]](https://www.sciencedirect.com/science/article/pii/S1063520322000653)   -->
-In *Applied and Computational Harmonic Analysis*
 
 <!-- {% include base_path %}
 

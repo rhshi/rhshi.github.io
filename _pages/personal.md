@@ -7,7 +7,7 @@ author_profile: true
 
 Among other things, I enjoy playing soccer and drinking tea.
 
-**Things I have enjoyed reading:**\
+**Things I've enjoyed reading:**\
 [What's Sex Got To Do With Fair Machine Learning?](https://arxiv.org/abs/2006.01770) by Lily Hu\
 [Why the Filet-O-Fish Is My Gold Standard for Fast Food](https://www.nytimes.com/2021/04/20/magazine/filet-o-fish-asian-americans.html) by Jane Hu\
 [Blunt-Force Ethnic Credibility](https://astra-mag.com/articles/blunt-force-ethnic-credibility/) by Som-Mai Nguyen\
