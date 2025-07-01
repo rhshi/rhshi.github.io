@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-Among other things, I enjoy playing soccer and drinking tea.  My [StoryGraph](app.thestorygraph.com/profile/teaserimage).
+Among other things, I enjoy playing soccer and drinking tea.  My [StoryGraph](https://app.thestorygraph.com/profile/teaserimage).
 
 **Essays I like:**\
 [What's Sex Got To Do With Fair Machine Learning?](https://arxiv.org/abs/2006.01770) by Lily Hu\
