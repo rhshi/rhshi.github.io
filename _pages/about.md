@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the University of Texas at Austin fortunate to be advised by Professor [Rachel Ward](https://sites.google.com/prod/view/rward).  Before UT I received my undergraduate degree in mathematics at the University of Chicago.
+I am a final year PhD student at the University of Texas at Austin fortunate to be advised by Professor [Rachel Ward](https://sites.google.com/prod/view/rward).  Before UT I received my undergraduate degree in mathematics at the University of Chicago.
 
 My interests lie broadly in the foundations of data science.  For more information about my research see [here](https://rhshi.github.io/research/).
 

@@ -17,9 +17,9 @@ My main research interest is in the mathematical foundations of data science, pa
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=TD6bQDEAAAAJ&hl=en).
 
-<!-- ## Preprints
-[**Concentration Inequalities for Sums of Markov Dependent Random Matrices**](https://arxiv.org/abs/2303.02150)  
-*Joe Neeman, BS, Rachel Ward*   -->
+## Preprints
+[**Efficient Tensor Decomposition via Moment Matrix Extensions**](https://arxiv.org/abs/2506.22564)  
+*BS, Julia Lindberg, Joe Kileel*  
 
 ## Journal Papers
 
