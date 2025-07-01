@@ -18,7 +18,7 @@ My main research interest is in the mathematical foundations of data science, pa
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=TD6bQDEAAAAJ&hl=en).
 
 ## Preprints
-[**Efficient Tensor Decomposition via Moment Matrix Extensions**](https://arxiv.org/abs/2506.22564)  
+[**Efficient Tensor Decomposition via Moment Matrix Extension**](https://arxiv.org/abs/2506.22564)  
 *BS, Julia Lindberg, Joe Kileel*  
 
 ## Journal Papers
