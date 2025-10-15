@@ -19,10 +19,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 
-[**Perspectives on Stochastic Localization**](https://arxiv.org/abs/2506.22564)  
+[**Perspectives on Stochastic Localization**](https://arxiv.org/abs/2510.04460)  
 *BS, Kevin Tian, Matthew S. Zhang*  
 
-[**Efficient Tensor Decomposition via Moment Matrix Extension**](https://https://arxiv.org/abs/2510.04460)  
+[**Efficient Tensor Decomposition via Moment Matrix Extension**](https://arxiv.org/abs/2506.22564)  
 *BS, Julia Lindberg, Joe Kileel*  
 
 ## Journal Papers
