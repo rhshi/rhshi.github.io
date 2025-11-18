@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-Among other things, I enjoy playing soccer, reading, drinking tea, and getting groceries.  I also do some [organizing](https://https://www.utgwu.com/).
+Among other things, I enjoy playing soccer, reading, drinking tea, and getting groceries.  I also do some [organizing](https://www.utgwu.com/).
 
 <!-- **Essays I like:**\
 [What's Sex Got To Do With Fair Machine Learning?](https://arxiv.org/abs/2006.01770) by Lily Hu\
