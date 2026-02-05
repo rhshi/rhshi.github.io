@@ -21,34 +21,34 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Functional Stochastic Localization**  
 *Anming Gu, BS, Kevin Tian*  
-[arXiv](https://www.arxiv.org/abs/2602.03999)
+[\[arXiv\]](https://www.arxiv.org/abs/2602.03999)
 
 **Perspectives on Stochastic Localization**  
 *BS, Kevin Tian, Matthew S. Zhang*  
-[arXiv](https://arxiv.org/abs/2510.04460)
+[\[arXiv\]](https://arxiv.org/abs/2510.04460)
 
 **Efficient Tensor Decomposition via Moment Matrix Extension**  
 *BS, Julia Lindberg, Joe Kileel*  
-[arXiv](https://arxiv.org/abs/2506.22564)[code](https://github.com/rhshi/TensorDecomposition.jl)
+[\[arXiv\]](https://arxiv.org/abs/2506.22564)[\[code\]](https://github.com/rhshi/TensorDecomposition.jl)
 
 ## Journal Papers
 
 **Concentration Inequalities for Sums of Markov Dependent Random Matrices**  
 *Joe Neeman, BS, Rachel Ward*  
 In *Information and Inference*  
-[journal](https://academic.oup.com/imaiai/article-abstract/13/4/iaae032/7917088?redirectedFrom=fulltext)[arXiv](https://arxiv.org/abs/2303.02150)
+[\[journal\]](https://academic.oup.com/imaiai/article-abstract/13/4/iaae032/7917088?redirectedFrom=fulltext)[\[arXiv\]](https://arxiv.org/abs/2303.02150)
 
 **Generalization Bounds for Sparse Random Feature Expansions**  
 *Abolfazl Hashemi, Hayden Schaeffer, BS, Ufuk Topcu, Giang Tran, Rachel Ward*  
 In *Applied and Computational Harmonic Analysis*  
-[journal](https://www.sciencedirect.com/science/article/pii/S1063520322000653)[arXiv](https://arxiv.org/abs/2103.03191)[code](https://github.com/GiangTTran/SparseRandomFeatureExpansion)
+[\[journal\]](https://www.sciencedirect.com/science/article/pii/S1063520322000653)[\[arXiv\]](https://arxiv.org/abs/2103.03191)[\[code\]](https://github.com/GiangTTran/SparseRandomFeatureExpansion)
 
 ## Conference Papers
 
 **SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning**  
 *Yuege Xie, BS, Hayden Schaeffer, Rachel Ward*  
 In *Mathematical and Scientific Machine Learning 2022*  
-[journal](https://proceedings.mlr.press/v190/xie22a.html)[arXiv](https://arxiv.org/abs/2112.04002)[code](https://github.com/rhshi/sparse-rf)
+[\[journal\]](https://proceedings.mlr.press/v190/xie22a.html)[\[arXiv\]](https://arxiv.org/abs/2112.04002)[\[code\]](https://github.com/rhshi/sparse-rf)
 
 
 <!-- {% include base_path %}
