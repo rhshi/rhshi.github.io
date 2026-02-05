@@ -48,7 +48,7 @@ In *Applied and Computational Harmonic Analysis*
 **SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning**  
 *Yuege Xie, BS, Hayden Schaeffer, Rachel Ward*  
 In *Mathematical and Scientific Machine Learning 2022*  
-[\[journal\]](https://proceedings.mlr.press/v190/xie22a.html)[\[arXiv\]](https://arxiv.org/abs/2112.04002)[\[code\]](https://github.com/rhshi/sparse-rf)
+[\[conference\]](https://proceedings.mlr.press/v190/xie22a.html) [\[arXiv\]](https://arxiv.org/abs/2112.04002) [\[code\]](https://github.com/rhshi/sparse-rf)
 
 
 <!-- {% include base_path %}
