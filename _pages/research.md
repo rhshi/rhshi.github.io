@@ -19,10 +19,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 
-**Functional Stochastic Localization**  
-*Anming Gu, BS, Kevin Tian*  
-[\[arXiv\]](https://www.arxiv.org/abs/2602.03999)
-
 **Perspectives on Stochastic Localization**  
 *BS, Kevin Tian, Matthew S. Zhang*  
 [\[arXiv\]](https://arxiv.org/abs/2510.04460)
@@ -44,6 +40,11 @@ In *Applied and Computational Harmonic Analysis*
 [\[journal\]](https://www.sciencedirect.com/science/article/pii/S1063520322000653) [\[arXiv\]](https://arxiv.org/abs/2103.03191) [\[code\]](https://github.com/GiangTTran/SparseRandomFeatureExpansion)
 
 ## Conference Papers
+
+**Functional Stochastic Localization**  
+*Anming Gu, BS, Kevin Tian*  
+In *Conference on Learning Theory 2026*  
+[\[conference\]](https://proceedings.mlr.press/v336/gu26b.html) [\[arXiv\]](https://www.arxiv.org/abs/2602.03999)
 
 **SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning**  
 *Yuege Xie, BS, Hayden Schaeffer, Rachel Ward*  
