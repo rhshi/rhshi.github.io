@@ -27,6 +27,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Efficient Tensor Decomposition via Moment Matrix Extension**  
 *BS, Julia Lindberg, Joe Kileel*  
+In *Journal of Symbolic Computation*  
 [\[journal\]](https://www.sciencedirect.com/science/article/abs/pii/S074771712600060X) [\[arXiv\]](https://arxiv.org/abs/2506.22564) [\[code\]](https://github.com/rhshi/TensorDecomposition.jl)
 
 **Concentration Inequalities for Sums of Markov Dependent Random Matrices**  
