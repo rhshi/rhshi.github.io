@@ -19,6 +19,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 
+**Polytope Sampling at the Speed of Isoperimetry**  
+*Anming Gu, BS, Kevin Tian, Hubert Yang*  
+[\[arXiv\]](https://arxiv.org/abs/2610.23775)
+
 **Perspectives on Stochastic Localization**  
 *BS, Kevin Tian, Matthew S. Zhang*  
 [\[arXiv\]](https://arxiv.org/abs/2510.04460)
