@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My main research focus is in the mathematical foundations of data science, particularly the algorithmic primitives that drive modern data science and machine learning tasks.  This involves statistics, high-dimensional probability, algorithms, optimization and sampling, and some algebra.  Recently I've been interested in more applied statistics, particularly Bayesian methods, the PCS(Predictability-Computability-Stability) framework, and causal inference.
+My main research focus is in the mathematical foundations of data science, particularly the algorithmic primitives that drive modern data science and machine learning tasks.  This involves statistics, high-dimensional probability, algorithms, optimization and sampling, and some algebra.  Recently I've been interested in more applied statistics, particularly Bayesian methods, the PCS (Predictability-Computability-Stability) framework, and causal inference.
 
 <!-- One of my main focuses right now is a study of various tensor problems.  These include potential statistical-computational gaps in symmetric tensor decomposition, qualitatively studying [Comon's conjecture](https://arxiv.org/abs/1810.09338), and landscape analysis of ODECO tensor decomposition.  These use ideas from property testing, algebraic geometry, statistics, and complexity theory. -->
 
